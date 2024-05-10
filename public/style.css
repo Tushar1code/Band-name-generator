@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    /* text-align: center; */
+    background-color: rgb(99, 110, 116);
+}
+
+h1, h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(230, 230, 255);
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    margin-top: 390px;
+} 
+a{
+    display: flex;
+    justify-content: center;
+}
+
